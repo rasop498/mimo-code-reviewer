@@ -83,7 +83,7 @@ Python, JavaScript, TypeScript, Go, Rust, Java, C/C++, Ruby, PHP, Swift, Kotlin,
 ### 1. Install
 
 ```bash
-git clone https://github.com/kikinurizki05/mimo-code-reviewer.git
+git clone https://github.com/rasop498/mimo-code-reviewer.git
 cd mimo-code-reviewer
 pip install -r requirements.txt
 ```
